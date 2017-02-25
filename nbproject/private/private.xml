@@ -5,6 +5,7 @@
         <group>
             <file>file:/var/www/html/blog/registration.php</file>
             <file>file:/var/www/html/blog/form.html</file>
+            <file>file:/var/www/html/blog/login.php</file>
             <file>file:/var/www/html/blog/index.php</file>
             <file>file:/var/www/html/blog/css/view.css</file>
         </group>
